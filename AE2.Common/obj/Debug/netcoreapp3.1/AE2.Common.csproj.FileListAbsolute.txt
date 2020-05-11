@@ -1,0 +1,11 @@
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\AE2.Common\bin\Debug\netcoreapp3.1\AE2.Common.exe
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\AE2.Common\bin\Debug\netcoreapp3.1\AE2.Common.deps.json
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\AE2.Common\bin\Debug\netcoreapp3.1\AE2.Common.runtimeconfig.json
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\AE2.Common\bin\Debug\netcoreapp3.1\AE2.Common.runtimeconfig.dev.json
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\AE2.Common\bin\Debug\netcoreapp3.1\AE2.Common.dll
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\AE2.Common\bin\Debug\netcoreapp3.1\AE2.Common.pdb
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\AE2.Common\obj\Debug\netcoreapp3.1\AE2.Common.csprojAssemblyReference.cache
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\AE2.Common\obj\Debug\netcoreapp3.1\AE2.Common.AssemblyInfoInputs.cache
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\AE2.Common\obj\Debug\netcoreapp3.1\AE2.Common.AssemblyInfo.cs
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\AE2.Common\obj\Debug\netcoreapp3.1\AE2.Common.dll
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\AE2.Common\obj\Debug\netcoreapp3.1\AE2.Common.pdb

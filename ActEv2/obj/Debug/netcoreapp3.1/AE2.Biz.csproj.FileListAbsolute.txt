@@ -1,0 +1,11 @@
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\ActEv2\bin\Debug\netcoreapp3.1\AE2.Biz.exe
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\ActEv2\bin\Debug\netcoreapp3.1\AE2.Biz.deps.json
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\ActEv2\bin\Debug\netcoreapp3.1\AE2.Biz.runtimeconfig.json
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\ActEv2\bin\Debug\netcoreapp3.1\AE2.Biz.runtimeconfig.dev.json
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\ActEv2\bin\Debug\netcoreapp3.1\AE2.Biz.dll
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\ActEv2\bin\Debug\netcoreapp3.1\AE2.Biz.pdb
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\ActEv2\obj\Debug\netcoreapp3.1\AE2.Biz.csprojAssemblyReference.cache
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\ActEv2\obj\Debug\netcoreapp3.1\AE2.Biz.AssemblyInfoInputs.cache
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\ActEv2\obj\Debug\netcoreapp3.1\AE2.Biz.AssemblyInfo.cs
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\ActEv2\obj\Debug\netcoreapp3.1\AE2.Biz.dll
+C:\Users\propietario\Downloads\Miguel\Clase\Entornos\Último ejercicio\ActEv2\obj\Debug\netcoreapp3.1\AE2.Biz.pdb

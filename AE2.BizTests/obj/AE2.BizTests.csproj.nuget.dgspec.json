@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\propietario\\Downloads\\Miguel\\Clase\\Entornos\\Último ejercicio\\AE2.BizTests\\AE2.BizTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\propietario\\Downloads\\Miguel\\Clase\\Entornos\\Último ejercicio\\ActEv2\\AE2.Biz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\propietario\\Downloads\\Miguel\\Clase\\Entornos\\Último ejercicio\\ActEv2\\AE2.Biz.csproj",
+        "projectName": "AE2.Biz",
+        "projectPath": "C:\\Users\\propietario\\Downloads\\Miguel\\Clase\\Entornos\\Último ejercicio\\ActEv2\\AE2.Biz.csproj",
+        "packagesPath": "C:\\Users\\propietario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\propietario\\Downloads\\Miguel\\Clase\\Entornos\\Último ejercicio\\ActEv2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\propietario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\propietario\\Downloads\\Miguel\\Clase\\Entornos\\Último ejercicio\\AE2.BizTests\\AE2.BizTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\propietario\\Downloads\\Miguel\\Clase\\Entornos\\Último ejercicio\\AE2.BizTests\\AE2.BizTests.csproj",
+        "projectName": "AE2.BizTests",
+        "projectPath": "C:\\Users\\propietario\\Downloads\\Miguel\\Clase\\Entornos\\Último ejercicio\\AE2.BizTests\\AE2.BizTests.csproj",
+        "packagesPath": "C:\\Users\\propietario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\propietario\\Downloads\\Miguel\\Clase\\Entornos\\Último ejercicio\\AE2.BizTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\propietario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\propietario\\Downloads\\Miguel\\Clase\\Entornos\\Último ejercicio\\ActEv2\\AE2.Biz.csproj": {
+                "projectPath": "C:\\Users\\propietario\\Downloads\\Miguel\\Clase\\Entornos\\Último ejercicio\\ActEv2\\AE2.Biz.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
